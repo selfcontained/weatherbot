@@ -1,4 +1,4 @@
-name: Weatherbot
+name: Weatherbot2
 description: A simple toy bot for Tim Scott to learn about developing bots.
 config:
   - name: WEATHER_API_KEY
